@@ -40,6 +40,8 @@ first-hand product knowledge aligns with Google's tightened 2026 emphasis on dem
 3. **Mobile experience as a ranking lever, not just a UX nicety.** With over a third of active users on mobile, page experience there directly supports the "helpful
 content generally comes with good page experience" signal Google continues to reinforce.
 
+![Local SEO & GA4 Performance Showcase](./aoc_local_seo_ga4_performance_showcase.png)<img width="1672" height="941" alt="aoc_local_seo_ga4_performance_showcase" src="https://github.com/user-attachments/assets/5be74f43-ae61-404c-8139-b077e4d4a2c9" />
+
 ### Methodology
 
 All figures are pulled directly from the GA4 property for `amnaomarclothing.com`, covering Jan 1 - Aug 3, 2026, exported 2026-08-03.
