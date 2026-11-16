@@ -1,9 +1,9 @@
 # Amna Omar Clothing - Local SEO, Technical Catalog & GA4 Performance Case Study
 
-**Client:** [Amna Omar Clothing](https://amnaomarclothing.com/) (Pakistani Women's Luxury Lawn, Silk & Formal Wear E-Commerce)  
-**Role:** Digital Media Marketer & SEO / GA4 Specialist - **Muhammad Luqman Mansha (MLM)**  
-**Analytics Property:** Google Analytics 4 (`amnaomarclothing.com`)  
-**Verified Reporting Window:** March 1 - November 16, 2026 (GA4 Weeks 9-46)
+**Client:** [Amna Omar Clothing](https://amnaomarclothing.com/) (Pakistani Women's Luxury Lawn, Silk & Formal Wear E-Commerce)  
+**Role:** Digital Media Marketer & SEO / GA4 Specialist - **Muhammad Luqman Mansha (MLM)**  
+**Analytics Property:** Google Analytics 4 (`amnaomarclothing.com`)  
+**Verified Reporting Window:** March 1 - November 16, 2026 (GA4 Weeks 9-46)  
 
 ![GA4 Local SEO Case Study - Amna Omar Clothing](./AOC_ga4_seo_performance.webp)<img width="1530" height="4000" alt="AOC- GA4 SEO Performance" src="https://github.com/user-attachments/assets/ac90dcfc-095b-4bab-8532-779e3b37b214" />
 
@@ -15,7 +15,7 @@ Between **March 1 and November 16, 2026**, I executed a targeted **Local SEO, pr
 
 > **Data Integrity & Reporting Methodology:** All figures below come directly from verified GA4 exports (`2026-11-16`). Channel-level performance metrics (`Organic Search`, `Direct`, `Referral`, `AI Assistant`, `Organic Social`) represent **exact March-November aggregate totals** (without synthetic monthly channel interpolation), while the monthly acquisition trajectory reflects **verified site-wide weekly user cohorts** aggregated across GA4 Weeks 9-46 (`401` total new users).
 
-## Key GA4 Performance Highlights (March 1 – November 16, 2026)
+## Key GA4 Performance Highlights (March 1 - November 16, 2026)
 
 | Performance Pillar | Verified GA4 Metric | Portfolio Benchmark & Impact |
 | :--- | :--- | :--- |
@@ -41,26 +41,30 @@ Between **March 1 and November 16, 2026**, I executed a targeted **Local SEO, pr
 | **Total Property** | **616** | **100.00%** | **251** | **40.75%** | **41.55s** | **6.87** | **4,229** |
 
 ### Strategic Takeaways from Channel Data
-* **Superior Search Intent:** While Direct traffic accounted for baseline brand visits, **Organic Search delivered nearly double the engagement rate (`65.38%` vs. `36.18%`)** and higher interaction depth (`7.42` events/session vs. `6.64`), proving that search visitors landed on relevant collection and product pages aligned with purchase intent.
-* **AI Discovery Readiness:** Structured product descriptions and entity clarity enabled `amnaomarclothing.com` to capture **6 sessions and 5 new users directly from `chatgpt.com / ai-assistant`**, demonstrating early Answer Engine & Generative Engine Optimization (AEO/GEO) visibility.
+* **Superior Search Intent:** While Direct traffic accounted for baseline brand visits.
+* **Organic Search delivered nearly double the engagement rate (`65.38%` vs. `36.18%`)**
+* Higher interaction depth (`7.42` events/session vs. `6.64`), proving that search visitors landed on relevant collection and product pages aligned with purchase intent.
+* **AI Discovery Readiness:** Structured product descriptions and entity clarity enabled `amnaomarclothing.com` to capture.
+* **6 sessions and 5 new users directly from `chatgpt.com / ai-assistant`**, demonstrating early Answer Engine & Generative Engine Optimization (AEO/GEO) visibility.
 
 ![Local SEO & GA4 Performance Showcase](./AOC_GA4_and_Local_SEO_Dashboard.webp)<img width="4000" height="2800" alt="AOC- GA4 and Local SEO Dashboard" src="https://github.com/user-attachments/assets/d9fe2b08-fcb5-4e06-bc51-7a449032f3d5" />
+
 ## Site-Wide Monthly User Acquisition Trajectory (Mar - Nov 16, 2026)
 
 Aggregated from GA4's weekly cohort series (`Nth week` 9 through 46, summing to all `401` new users):
 
 | Month (2026) | GA4 Weeks | New Users (All Channels) | Returning User Instances | Combined Monthly Activity | Key Campaign & Engagement Milestone |
 | :--- | :---: | :---: | :---: | :---: | :--- |
-| **March** | Wks 9–13 | 123 | 29 | 152 | Initial launch & catalog indexing surge |
-| **April** | Wks 14–17 | 26 | 6 | 32 | On-page product & category architecture refinement |
-| **May** | Wks 18–22 | 52 | 6 | 58 | Spring/summer lawn collection discovery lift |
-| **June** | Wks 23–26 | 45 | 5 | 50 | Mid-year seasonal campaign & schema rollout |
-| **July** | Wks 27–28 | 5 | 0 | 5 | Summer transition baseline |
-| **August** | Wks 31–35 | 35 | 6 | 41 | Pre-autumn search visibility recovery |
-| **September** | Wks 36–39 | 36 | 23 | 59 | **Peak engagement surge:** `64` est. engaged sessions; Week 36 hit `1,315.7s` avg. engagement/user |
-| **October** | Wks 40–43 | 56 | 2 | 58 | **Second-highest new-user wave** (peaking at `30` new users in Week 42) |
-| **November*** | Wks 44–46 | 23 | 0 | 23 | Partial month data captured through **November 16, 2026** |
-| **Total** | **Wks 9–46** | **401** | **77** | **478** | **100% reconciled with GA4 property-wide user totals** |
+| **March** | Wks 9-13 | 123 | 29 | 152 | Initial launch & catalog indexing surge |
+| **April** | Wks 14-17 | 26 | 6 | 32 | On-page product & category architecture refinement |
+| **May** | Wks 18-22 | 52 | 6 | 58 | Spring/summer lawn collection discovery lift |
+| **June** | Wks 23-26 | 45 | 5 | 50 | Mid-year seasonal campaign & schema rollout |
+| **July** | Wks 27-28 | 5 | 0 | 5 | Summer transition baseline |
+| **August** | Wks 31-35 | 35 | 6 | 41 | Pre-autumn search visibility recovery |
+| **September** | Wks 36-39 | 36 | 23 | 59 | **Peak engagement surge:** `64` est. engaged sessions; Week 36 hit `1,315.7s` avg. engagement/user |
+| **October** | Wks 40-43 | 56 | 2 | 58 | **Second-highest new-user wave** (peaking at `30` new users in Week 42) |
+| **November*** | Wks 44-46 | 23 | 0 | 23 | Partial month data captured through **November 16, 2026** |
+| **Total** | **Wks 9-46** | **401** | **77** | **478** | **100% reconciled with GA4 property-wide user totals** |
 
 ---
 
@@ -74,15 +78,15 @@ Aggregated from GA4's weekly cohort series (`Nth week` 9 through 46, summing to 
 
 ## Top Performing Pages & Product Funnel Signals
 
-* **Top Commercial & Product Pages (Excluding Homepage `/` at `864` views):**
-  * `/collection/` - `111` views (`55` active users)
-  * `/product/beige-pearl/` (*Beige Pearl Chikankari Embroidered Lawn Kurta Set*) - `89` views, **`70.0s` average engagement time**, `2` add-to-cart actions
-  * `/dresses/` - `87` views (`38` active users)
-  * `/new-arrivals/` - `75` views (`43` active users)
-  * `/product/serene-frost/` (*The Serene Frost Set*) - `41` views, **`50.6s` avg. engagement time**, `3` add-to-cart actions
-  * `/shop/` - `34` views (`4.86` views/user)
-  * `/product/ivory-zeenat/` (*Ivory Zeenat, Embroidered Shalwar Kameez*) - `28` views, `1` add-to-cart action
-* **Lead & E-Commerce Micro-Conversions:** Tracked `18` `form_start`, `10` `form_submit`, `9` `click to chat` (WhatsApp/direct inquiry), and `7` `add_to_cart` events across desktop (`249` active users) and mobile (`157` active users).
+* **Top Commercial & Product Pages (Excluding Homepage `/` at `864` views):**  
+  * `/collection/` - `111` views (`55` active users)  
+  * `/product/beige-pearl/` (*Beige Pearl Chikankari Embroidered Lawn Kurta Set*) - `89` views, **`70.0s` average engagement time**, `2` add-to-cart actions  
+  * `/dresses/` - `87` views (`38` active users)  
+  * `/new-arrivals/` - `75` views (`43` active users)  
+  * `/product/serene-frost/` (*The Serene Frost Set*) - `41` views, **`50.6s` avg. engagement time**, `3` add-to-cart actions  
+  * `/shop/` - `34` views (`4.86` views/user)  
+  * `/product/ivory-zeenat/` (*Ivory Zeenat, Embroidered Shalwar Kameez*) - `28` views, `1` add-to-cart action  
+* **Lead & E-Commerce Micro-Conversions:** Tracked `18` `form_start`, `10` `form_submit`, `9` `click to chat` (WhatsApp/direct inquiry), and `7` `add_to_cart` events across desktop (`249` active users) and mobile (`157` active users).  
 
 ---
 
